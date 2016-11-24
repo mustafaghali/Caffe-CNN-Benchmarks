@@ -1,0 +1,362 @@
+I1124 23:07:13.065735   142 caffe.cpp:334] *** Benchmark begins ***
+I1124 23:07:13.065749   142 caffe.cpp:335] Testing for 50 iterations.
+I1124 23:07:17.604132   142 caffe.cpp:363] Iteration: 1 forward-backward time: 4538 ms.
+I1124 23:07:22.023406   142 caffe.cpp:363] Iteration: 2 forward-backward time: 4419 ms.
+I1124 23:07:26.437845   142 caffe.cpp:363] Iteration: 3 forward-backward time: 4414 ms.
+I1124 23:07:30.852476   142 caffe.cpp:363] Iteration: 4 forward-backward time: 4414 ms.
+I1124 23:07:35.265420   142 caffe.cpp:363] Iteration: 5 forward-backward time: 4412 ms.
+I1124 23:07:39.688066   142 caffe.cpp:363] Iteration: 6 forward-backward time: 4422 ms.
+I1124 23:07:44.109979   142 caffe.cpp:363] Iteration: 7 forward-backward time: 4421 ms.
+I1124 23:07:48.539784   142 caffe.cpp:363] Iteration: 8 forward-backward time: 4429 ms.
+I1124 23:07:52.964778   142 caffe.cpp:363] Iteration: 9 forward-backward time: 4424 ms.
+I1124 23:07:57.392767   142 caffe.cpp:363] Iteration: 10 forward-backward time: 4427 ms.
+I1124 23:08:01.842571   142 caffe.cpp:363] Iteration: 11 forward-backward time: 4449 ms.
+I1124 23:08:06.278614   142 caffe.cpp:363] Iteration: 12 forward-backward time: 4435 ms.
+I1124 23:08:10.727700   142 caffe.cpp:363] Iteration: 13 forward-backward time: 4448 ms.
+I1124 23:08:15.161162   142 caffe.cpp:363] Iteration: 14 forward-backward time: 4433 ms.
+I1124 23:08:19.603173   142 caffe.cpp:363] Iteration: 15 forward-backward time: 4441 ms.
+I1124 23:08:24.049851   142 caffe.cpp:363] Iteration: 16 forward-backward time: 4446 ms.
+I1124 23:08:28.482028   142 caffe.cpp:363] Iteration: 17 forward-backward time: 4432 ms.
+I1124 23:08:32.923302   142 caffe.cpp:363] Iteration: 18 forward-backward time: 4441 ms.
+I1124 23:08:37.378173   142 caffe.cpp:363] Iteration: 19 forward-backward time: 4454 ms.
+I1124 23:08:41.828573   142 caffe.cpp:363] Iteration: 20 forward-backward time: 4450 ms.
+I1124 23:08:46.281867   142 caffe.cpp:363] Iteration: 21 forward-backward time: 4453 ms.
+I1124 23:08:50.754127   142 caffe.cpp:363] Iteration: 22 forward-backward time: 4472 ms.
+I1124 23:08:55.205765   142 caffe.cpp:363] Iteration: 23 forward-backward time: 4451 ms.
+I1124 23:08:59.662989   142 caffe.cpp:363] Iteration: 24 forward-backward time: 4457 ms.
+I1124 23:09:04.275321   142 caffe.cpp:363] Iteration: 25 forward-backward time: 4612 ms.
+I1124 23:09:08.731462   142 caffe.cpp:363] Iteration: 26 forward-backward time: 4456 ms.
+I1124 23:09:13.201714   142 caffe.cpp:363] Iteration: 27 forward-backward time: 4470 ms.
+I1124 23:09:17.660825   142 caffe.cpp:363] Iteration: 28 forward-backward time: 4459 ms.
+I1124 23:09:22.125259   142 caffe.cpp:363] Iteration: 29 forward-backward time: 4464 ms.
+I1124 23:09:26.592283   142 caffe.cpp:363] Iteration: 30 forward-backward time: 4466 ms.
+I1124 23:09:31.067553   142 caffe.cpp:363] Iteration: 31 forward-backward time: 4475 ms.
+I1124 23:09:35.531123   142 caffe.cpp:363] Iteration: 32 forward-backward time: 4463 ms.
+I1124 23:09:40.000533   142 caffe.cpp:363] Iteration: 33 forward-backward time: 4469 ms.
+I1124 23:09:44.472247   142 caffe.cpp:363] Iteration: 34 forward-backward time: 4471 ms.
+I1124 23:09:48.938097   142 caffe.cpp:363] Iteration: 35 forward-backward time: 4465 ms.
+I1124 23:09:53.399540   142 caffe.cpp:363] Iteration: 36 forward-backward time: 4461 ms.
+I1124 23:09:57.869489   142 caffe.cpp:363] Iteration: 37 forward-backward time: 4469 ms.
+I1124 23:10:02.344234   142 caffe.cpp:363] Iteration: 38 forward-backward time: 4474 ms.
+I1124 23:10:06.819772   142 caffe.cpp:363] Iteration: 39 forward-backward time: 4475 ms.
+I1124 23:10:11.301029   142 caffe.cpp:363] Iteration: 40 forward-backward time: 4481 ms.
+I1124 23:10:15.770133   142 caffe.cpp:363] Iteration: 41 forward-backward time: 4468 ms.
+I1124 23:10:20.247995   142 caffe.cpp:363] Iteration: 42 forward-backward time: 4477 ms.
+I1124 23:10:24.729068   142 caffe.cpp:363] Iteration: 43 forward-backward time: 4480 ms.
+I1124 23:10:29.206146   142 caffe.cpp:363] Iteration: 44 forward-backward time: 4476 ms.
+I1124 23:10:33.676091   142 caffe.cpp:363] Iteration: 45 forward-backward time: 4469 ms.
+I1124 23:10:38.158809   142 caffe.cpp:363] Iteration: 46 forward-backward time: 4482 ms.
+I1124 23:10:42.631808   142 caffe.cpp:363] Iteration: 47 forward-backward time: 4472 ms.
+I1124 23:10:47.105515   142 caffe.cpp:363] Iteration: 48 forward-backward time: 4473 ms.
+I1124 23:10:51.607067   142 caffe.cpp:363] Iteration: 49 forward-backward time: 4501 ms.
+I1124 23:10:56.079995   142 caffe.cpp:363] Iteration: 50 forward-backward time: 4472 ms.
+I1124 23:10:56.080080   142 caffe.cpp:366] Average time per layer: 
+I1124 23:10:56.080094   142 caffe.cpp:369]       data	forward: 0.00158 ms.
+I1124 23:10:56.080121   142 caffe.cpp:372]       data	backward: 0.0016 ms.
+I1124 23:10:56.080147   142 caffe.cpp:369] conv1/7x7_s2	forward: 174.811 ms.
+I1124 23:10:56.080168   142 caffe.cpp:372] conv1/7x7_s2	backward: 144.364 ms.
+I1124 23:10:56.080188   142 caffe.cpp:369] conv1/relu_7x7	forward: 22.2401 ms.
+I1124 23:10:56.080209   142 caffe.cpp:372] conv1/relu_7x7	backward: 0.00074 ms.
+I1124 23:10:56.080229   142 caffe.cpp:369] pool1/3x3_s2	forward: 78.0693 ms.
+I1124 23:10:56.080248   142 caffe.cpp:372] pool1/3x3_s2	backward: 0.0016 ms.
+I1124 23:10:56.080267   142 caffe.cpp:369] pool1/norm1	forward: 134.475 ms.
+I1124 23:10:56.080287   142 caffe.cpp:372] pool1/norm1	backward: 175.319 ms.
+I1124 23:10:56.080307   142 caffe.cpp:369] conv2/3x3_reduce	forward: 12.0592 ms.
+I1124 23:10:56.080327   142 caffe.cpp:372] conv2/3x3_reduce	backward: 9.67568 ms.
+I1124 23:10:56.080348   142 caffe.cpp:369] conv2/relu_3x3_reduce	forward: 5.55764 ms.
+I1124 23:10:56.080366   142 caffe.cpp:372] conv2/relu_3x3_reduce	backward: 0.0015 ms.
+I1124 23:10:56.080386   142 caffe.cpp:369]  conv2/3x3	forward: 268.493 ms.
+I1124 23:10:56.080405   142 caffe.cpp:372]  conv2/3x3	backward: 242.798 ms.
+I1124 23:10:56.080426   142 caffe.cpp:369] conv2/relu_3x3	forward: 16.7129 ms.
+I1124 23:10:56.080446   142 caffe.cpp:372] conv2/relu_3x3	backward: 0.00162 ms.
+I1124 23:10:56.080466   142 caffe.cpp:369] conv2/norm2	forward: 430.719 ms.
+I1124 23:10:56.080485   142 caffe.cpp:372] conv2/norm2	backward: 460.207 ms.
+I1124 23:10:56.080505   142 caffe.cpp:369] pool2/3x3_s2	forward: 29.5187 ms.
+I1124 23:10:56.080525   142 caffe.cpp:372] pool2/3x3_s2	backward: 0.00094 ms.
+I1124 23:10:56.080548   142 caffe.cpp:369] pool2/3x3_s2_pool2/3x3_s2_0_split	forward: 0.0056 ms.
+I1124 23:10:56.080569   142 caffe.cpp:372] pool2/3x3_s2_pool2/3x3_s2_0_split	backward: 0.00174 ms.
+I1124 23:10:56.080588   142 caffe.cpp:369] inception_3a/1x1	forward: 6.95522 ms.
+I1124 23:10:56.080607   142 caffe.cpp:372] inception_3a/1x1	backward: 6.36954 ms.
+I1124 23:10:56.080626   142 caffe.cpp:369] inception_3a/relu_1x1	forward: 1.44458 ms.
+I1124 23:10:56.080646   142 caffe.cpp:372] inception_3a/relu_1x1	backward: 0.00146 ms.
+I1124 23:10:56.080665   142 caffe.cpp:369] inception_3a/3x3_reduce	forward: 10.4698 ms.
+I1124 23:10:56.080685   142 caffe.cpp:372] inception_3a/3x3_reduce	backward: 9.29772 ms.
+I1124 23:10:56.080704   142 caffe.cpp:369] inception_3a/relu_3x3_reduce	forward: 2.08022 ms.
+I1124 23:10:56.080724   142 caffe.cpp:372] inception_3a/relu_3x3_reduce	backward: 0.00178 ms.
+I1124 23:10:56.080744   142 caffe.cpp:369] inception_3a/3x3	forward: 73.8644 ms.
+I1124 23:10:56.080763   142 caffe.cpp:372] inception_3a/3x3	backward: 68.3184 ms.
+I1124 23:10:56.080786   142 caffe.cpp:369] inception_3a/relu_3x3	forward: 2.89508 ms.
+I1124 23:10:56.080806   142 caffe.cpp:372] inception_3a/relu_3x3	backward: 0.00148 ms.
+I1124 23:10:56.080826   142 caffe.cpp:369] inception_3a/5x5_reduce	forward: 2.96674 ms.
+I1124 23:10:56.080847   142 caffe.cpp:372] inception_3a/5x5_reduce	backward: 2.58962 ms.
+I1124 23:10:56.080868   142 caffe.cpp:369] inception_3a/relu_5x5_reduce	forward: 0.333 ms.
+I1124 23:10:56.080888   142 caffe.cpp:372] inception_3a/relu_5x5_reduce	backward: 0.0012 ms.
+I1124 23:10:56.080911   142 caffe.cpp:369] inception_3a/5x5	forward: 15.2121 ms.
+I1124 23:10:56.080932   142 caffe.cpp:372] inception_3a/5x5	backward: 14.7603 ms.
+I1124 23:10:56.080953   142 caffe.cpp:369] inception_3a/relu_5x5	forward: 0.70266 ms.
+I1124 23:10:56.080973   142 caffe.cpp:372] inception_3a/relu_5x5	backward: 0.00098 ms.
+I1124 23:10:56.080994   142 caffe.cpp:369] inception_3a/pool	forward: 62.173 ms.
+I1124 23:10:56.081014   142 caffe.cpp:372] inception_3a/pool	backward: 0.00164 ms.
+I1124 23:10:56.081035   142 caffe.cpp:369] inception_3a/pool_proj	forward: 4.22184 ms.
+I1124 23:10:56.081058   142 caffe.cpp:372] inception_3a/pool_proj	backward: 3.62742 ms.
+I1124 23:10:56.081115   142 caffe.cpp:369] inception_3a/relu_pool_proj	forward: 0.68176 ms.
+I1124 23:10:56.081138   142 caffe.cpp:372] inception_3a/relu_pool_proj	backward: 0.00102 ms.
+I1124 23:10:56.081161   142 caffe.cpp:369] inception_3a/output	forward: 2.66588 ms.
+I1124 23:10:56.081182   142 caffe.cpp:372] inception_3a/output	backward: 0.05508 ms.
+I1124 23:10:56.081202   142 caffe.cpp:369] inception_3a/output_inception_3a/output_0_split	forward: 0.0057 ms.
+I1124 23:10:56.081221   142 caffe.cpp:372] inception_3a/output_inception_3a/output_0_split	backward: 0.0019 ms.
+I1124 23:10:56.081243   142 caffe.cpp:369] inception_3b/1x1	forward: 17.5988 ms.
+I1124 23:10:56.081262   142 caffe.cpp:372] inception_3b/1x1	backward: 15.6495 ms.
+I1124 23:10:56.081288   142 caffe.cpp:369] inception_3b/relu_1x1	forward: 2.83208 ms.
+I1124 23:10:56.081310   142 caffe.cpp:372] inception_3b/relu_1x1	backward: 0.00142 ms.
+I1124 23:10:56.081332   142 caffe.cpp:369] inception_3b/3x3_reduce	forward: 17.689 ms.
+I1124 23:10:56.081354   142 caffe.cpp:372] inception_3b/3x3_reduce	backward: 15.7875 ms.
+I1124 23:10:56.081377   142 caffe.cpp:369] inception_3b/relu_3x3_reduce	forward: 2.83204 ms.
+I1124 23:10:56.081399   142 caffe.cpp:372] inception_3b/relu_3x3_reduce	backward: 0.0015 ms.
+I1124 23:10:56.081420   142 caffe.cpp:369] inception_3b/3x3	forward: 132.564 ms.
+I1124 23:10:56.081441   142 caffe.cpp:372] inception_3b/3x3	backward: 124.13 ms.
+I1124 23:10:56.081462   142 caffe.cpp:369] inception_3b/relu_3x3	forward: 4.26584 ms.
+I1124 23:10:56.081482   142 caffe.cpp:372] inception_3b/relu_3x3	backward: 0.00182 ms.
+I1124 23:10:56.081502   142 caffe.cpp:369] inception_3b/5x5_reduce	forward: 5.56612 ms.
+I1124 23:10:56.081522   142 caffe.cpp:372] inception_3b/5x5_reduce	backward: 4.81792 ms.
+I1124 23:10:56.081543   142 caffe.cpp:369] inception_3b/relu_5x5_reduce	forward: 0.70898 ms.
+I1124 23:10:56.081565   142 caffe.cpp:372] inception_3b/relu_5x5_reduce	backward: 0.00154 ms.
+I1124 23:10:56.081590   142 caffe.cpp:369] inception_3b/5x5	forward: 55.8816 ms.
+I1124 23:10:56.081610   142 caffe.cpp:372] inception_3b/5x5	backward: 51.9333 ms.
+I1124 23:10:56.081631   142 caffe.cpp:369] inception_3b/relu_5x5	forward: 2.17786 ms.
+I1124 23:10:56.081652   142 caffe.cpp:372] inception_3b/relu_5x5	backward: 0.00084 ms.
+I1124 23:10:56.081672   142 caffe.cpp:369] inception_3b/pool	forward: 85.239 ms.
+I1124 23:10:56.081693   142 caffe.cpp:372] inception_3b/pool	backward: 0.0017 ms.
+I1124 23:10:56.081713   142 caffe.cpp:369] inception_3b/pool_proj	forward: 9.5083 ms.
+I1124 23:10:56.081737   142 caffe.cpp:372] inception_3b/pool_proj	backward: 8.35818 ms.
+I1124 23:10:56.081759   142 caffe.cpp:369] inception_3b/relu_pool_proj	forward: 1.39254 ms.
+I1124 23:10:56.081779   142 caffe.cpp:372] inception_3b/relu_pool_proj	backward: 0.001 ms.
+I1124 23:10:56.081800   142 caffe.cpp:369] inception_3b/output	forward: 5.06702 ms.
+I1124 23:10:56.081820   142 caffe.cpp:372] inception_3b/output	backward: 0.0843 ms.
+I1124 23:10:56.081841   142 caffe.cpp:369] pool3/3x3_s2	forward: 44.4198 ms.
+I1124 23:10:56.081862   142 caffe.cpp:372] pool3/3x3_s2	backward: 0.00084 ms.
+I1124 23:10:56.081882   142 caffe.cpp:369] pool3/3x3_s2_pool3/3x3_s2_0_split	forward: 0.00536 ms.
+I1124 23:10:56.081904   142 caffe.cpp:372] pool3/3x3_s2_pool3/3x3_s2_0_split	backward: 0.00166 ms.
+I1124 23:10:56.081928   142 caffe.cpp:369] inception_4a/1x1	forward: 11.9215 ms.
+I1124 23:10:56.081948   142 caffe.cpp:372] inception_4a/1x1	backward: 10.451 ms.
+I1124 23:10:56.081974   142 caffe.cpp:369] inception_4a/relu_1x1	forward: 1.07128 ms.
+I1124 23:10:56.081993   142 caffe.cpp:372] inception_4a/relu_1x1	backward: 0.00132 ms.
+I1124 23:10:56.082012   142 caffe.cpp:369] inception_4a/3x3_reduce	forward: 6.26212 ms.
+I1124 23:10:56.082032   142 caffe.cpp:372] inception_4a/3x3_reduce	backward: 5.55008 ms.
+I1124 23:10:56.082053   142 caffe.cpp:369] inception_4a/relu_3x3_reduce	forward: 0.52912 ms.
+I1124 23:10:56.082074   142 caffe.cpp:372] inception_4a/relu_3x3_reduce	backward: 0.00126 ms.
+I1124 23:10:56.082110   142 caffe.cpp:369] inception_4a/3x3	forward: 26.7907 ms.
+I1124 23:10:56.082132   142 caffe.cpp:372] inception_4a/3x3	backward: 24.5443 ms.
+I1124 23:10:56.082152   142 caffe.cpp:369] inception_4a/relu_3x3	forward: 1.1598 ms.
+I1124 23:10:56.082171   142 caffe.cpp:372] inception_4a/relu_3x3	backward: 0.00142 ms.
+I1124 23:10:56.082191   142 caffe.cpp:369] inception_4a/5x5_reduce	forward: 1.7629 ms.
+I1124 23:10:56.082213   142 caffe.cpp:372] inception_4a/5x5_reduce	backward: 1.61344 ms.
+I1124 23:10:56.082234   142 caffe.cpp:369] inception_4a/relu_5x5_reduce	forward: 0.08952 ms.
+I1124 23:10:56.082255   142 caffe.cpp:372] inception_4a/relu_5x5_reduce	backward: 0.00076 ms.
+I1124 23:10:56.082275   142 caffe.cpp:369] inception_4a/5x5	forward: 4.784 ms.
+I1124 23:10:56.082294   142 caffe.cpp:372] inception_4a/5x5	backward: 4.56228 ms.
+I1124 23:10:56.082314   142 caffe.cpp:369] inception_4a/relu_5x5	forward: 0.26274 ms.
+I1124 23:10:56.082334   142 caffe.cpp:372] inception_4a/relu_5x5	backward: 0.00066 ms.
+I1124 23:10:56.082353   142 caffe.cpp:369] inception_4a/pool	forward: 43.9013 ms.
+I1124 23:10:56.082373   142 caffe.cpp:372] inception_4a/pool	backward: 0.00158 ms.
+I1124 23:10:56.082393   142 caffe.cpp:369] inception_4a/pool_proj	forward: 4.45214 ms.
+I1124 23:10:56.082413   142 caffe.cpp:372] inception_4a/pool_proj	backward: 3.91596 ms.
+I1124 23:10:56.082433   142 caffe.cpp:369] inception_4a/relu_pool_proj	forward: 0.34612 ms.
+I1124 23:10:56.082453   142 caffe.cpp:372] inception_4a/relu_pool_proj	backward: 0.00096 ms.
+I1124 23:10:56.082473   142 caffe.cpp:369] inception_4a/output	forward: 1.29446 ms.
+I1124 23:10:56.082492   142 caffe.cpp:372] inception_4a/output	backward: 0.02652 ms.
+I1124 23:10:56.082511   142 caffe.cpp:369] inception_4a/output_inception_4a/output_0_split	forward: 0.00578 ms.
+I1124 23:10:56.082531   142 caffe.cpp:372] inception_4a/output_inception_4a/output_0_split	backward: 0.00158 ms.
+I1124 23:10:56.082552   142 caffe.cpp:369] inception_4b/1x1	forward: 10.7673 ms.
+I1124 23:10:56.082573   142 caffe.cpp:372] inception_4b/1x1	backward: 9.51192 ms.
+I1124 23:10:56.082594   142 caffe.cpp:369] inception_4b/relu_1x1	forward: 0.8926 ms.
+I1124 23:10:56.082613   142 caffe.cpp:372] inception_4b/relu_1x1	backward: 0.0014 ms.
+I1124 23:10:56.082633   142 caffe.cpp:369] inception_4b/3x3_reduce	forward: 7.96944 ms.
+I1124 23:10:56.082653   142 caffe.cpp:372] inception_4b/3x3_reduce	backward: 7.0976 ms.
+I1124 23:10:56.082670   142 caffe.cpp:369] inception_4b/relu_3x3_reduce	forward: 0.62134 ms.
+I1124 23:10:56.082690   142 caffe.cpp:372] inception_4b/relu_3x3_reduce	backward: 0.00154 ms.
+I1124 23:10:56.082713   142 caffe.cpp:369] inception_4b/3x3	forward: 32.9262 ms.
+I1124 23:10:56.082736   142 caffe.cpp:372] inception_4b/3x3	backward: 30.5401 ms.
+I1124 23:10:56.082759   142 caffe.cpp:369] inception_4b/relu_3x3	forward: 1.26192 ms.
+I1124 23:10:56.082780   142 caffe.cpp:372] inception_4b/relu_3x3	backward: 0.00152 ms.
+I1124 23:10:56.082800   142 caffe.cpp:369] inception_4b/5x5_reduce	forward: 2.86508 ms.
+I1124 23:10:56.082819   142 caffe.cpp:372] inception_4b/5x5_reduce	backward: 2.51506 ms.
+I1124 23:10:56.082839   142 caffe.cpp:369] inception_4b/relu_5x5_reduce	forward: 0.12654 ms.
+I1124 23:10:56.082859   142 caffe.cpp:372] inception_4b/relu_5x5_reduce	backward: 0.0007 ms.
+I1124 23:10:56.082878   142 caffe.cpp:369] inception_4b/5x5	forward: 8.10246 ms.
+I1124 23:10:56.082901   142 caffe.cpp:372] inception_4b/5x5	backward: 7.5888 ms.
+I1124 23:10:56.082921   142 caffe.cpp:369] inception_4b/relu_5x5	forward: 0.34428 ms.
+I1124 23:10:56.082942   142 caffe.cpp:372] inception_4b/relu_5x5	backward: 0.00116 ms.
+I1124 23:10:56.082968   142 caffe.cpp:369] inception_4b/pool	forward: 52.6177 ms.
+I1124 23:10:56.082989   142 caffe.cpp:372] inception_4b/pool	backward: 0.00152 ms.
+I1124 23:10:56.083012   142 caffe.cpp:369] inception_4b/pool_proj	forward: 4.72924 ms.
+I1124 23:10:56.083030   142 caffe.cpp:372] inception_4b/pool_proj	backward: 4.11478 ms.
+I1124 23:10:56.083050   142 caffe.cpp:369] inception_4b/relu_pool_proj	forward: 0.35372 ms.
+I1124 23:10:56.083087   142 caffe.cpp:372] inception_4b/relu_pool_proj	backward: 0.00078 ms.
+I1124 23:10:56.083109   142 caffe.cpp:369] inception_4b/output	forward: 1.28958 ms.
+I1124 23:10:56.083129   142 caffe.cpp:372] inception_4b/output	backward: 0.02632 ms.
+I1124 23:10:56.083148   142 caffe.cpp:369] inception_4b/output_inception_4b/output_0_split	forward: 0.00556 ms.
+I1124 23:10:56.083168   142 caffe.cpp:372] inception_4b/output_inception_4b/output_0_split	backward: 0.00174 ms.
+I1124 23:10:56.083186   142 caffe.cpp:369] inception_4c/1x1	forward: 8.65108 ms.
+I1124 23:10:56.083205   142 caffe.cpp:372] inception_4c/1x1	backward: 7.63302 ms.
+I1124 23:10:56.083223   142 caffe.cpp:369] inception_4c/relu_1x1	forward: 0.71096 ms.
+I1124 23:10:56.083245   142 caffe.cpp:372] inception_4c/relu_1x1	backward: 0.00148 ms.
+I1124 23:10:56.083263   142 caffe.cpp:369] inception_4c/3x3_reduce	forward: 8.65008 ms.
+I1124 23:10:56.083283   142 caffe.cpp:372] inception_4c/3x3_reduce	backward: 7.6693 ms.
+I1124 23:10:56.083302   142 caffe.cpp:369] inception_4c/relu_3x3_reduce	forward: 0.7056 ms.
+I1124 23:10:56.083319   142 caffe.cpp:372] inception_4c/relu_3x3_reduce	backward: 0.0015 ms.
+I1124 23:10:56.083338   142 caffe.cpp:369] inception_4c/3x3	forward: 41.5447 ms.
+I1124 23:10:56.083358   142 caffe.cpp:372] inception_4c/3x3	backward: 38.0857 ms.
+I1124 23:10:56.083376   142 caffe.cpp:369] inception_4c/relu_3x3	forward: 1.44114 ms.
+I1124 23:10:56.083396   142 caffe.cpp:372] inception_4c/relu_3x3	backward: 0.00138 ms.
+I1124 23:10:56.083415   142 caffe.cpp:369] inception_4c/5x5_reduce	forward: 2.81292 ms.
+I1124 23:10:56.083436   142 caffe.cpp:372] inception_4c/5x5_reduce	backward: 2.51882 ms.
+I1124 23:10:56.083454   142 caffe.cpp:369] inception_4c/relu_5x5_reduce	forward: 0.12992 ms.
+I1124 23:10:56.083472   142 caffe.cpp:372] inception_4c/relu_5x5_reduce	backward: 0.00086 ms.
+I1124 23:10:56.083492   142 caffe.cpp:369] inception_4c/5x5	forward: 8.09966 ms.
+I1124 23:10:56.083509   142 caffe.cpp:372] inception_4c/5x5	backward: 7.5741 ms.
+I1124 23:10:56.083528   142 caffe.cpp:369] inception_4c/relu_5x5	forward: 0.3408 ms.
+I1124 23:10:56.083549   142 caffe.cpp:372] inception_4c/relu_5x5	backward: 0.0009 ms.
+I1124 23:10:56.083569   142 caffe.cpp:369] inception_4c/pool	forward: 59.4093 ms.
+I1124 23:10:56.083590   142 caffe.cpp:372] inception_4c/pool	backward: 0.00156 ms.
+I1124 23:10:56.083608   142 caffe.cpp:369] inception_4c/pool_proj	forward: 4.76998 ms.
+I1124 23:10:56.083626   142 caffe.cpp:372] inception_4c/pool_proj	backward: 4.10794 ms.
+I1124 23:10:56.083645   142 caffe.cpp:369] inception_4c/relu_pool_proj	forward: 0.36008 ms.
+I1124 23:10:56.083664   142 caffe.cpp:372] inception_4c/relu_pool_proj	backward: 0.00102 ms.
+I1124 23:10:56.083683   142 caffe.cpp:369] inception_4c/output	forward: 1.28994 ms.
+I1124 23:10:56.083703   142 caffe.cpp:372] inception_4c/output	backward: 0.03576 ms.
+I1124 23:10:56.083724   142 caffe.cpp:369] inception_4c/output_inception_4c/output_0_split	forward: 0.00536 ms.
+I1124 23:10:56.083744   142 caffe.cpp:372] inception_4c/output_inception_4c/output_0_split	backward: 0.00184 ms.
+I1124 23:10:56.083761   142 caffe.cpp:369] inception_4d/1x1	forward: 8.22726 ms.
+I1124 23:10:56.083781   142 caffe.cpp:372] inception_4d/1x1	backward: 6.96364 ms.
+I1124 23:10:56.083798   142 caffe.cpp:369] inception_4d/relu_1x1	forward: 0.62512 ms.
+I1124 23:10:56.083817   142 caffe.cpp:372] inception_4d/relu_1x1	backward: 0.00136 ms.
+I1124 23:10:56.083835   142 caffe.cpp:369] inception_4d/3x3_reduce	forward: 10.0192 ms.
+I1124 23:10:56.083856   142 caffe.cpp:372] inception_4d/3x3_reduce	backward: 8.80784 ms.
+I1124 23:10:56.083878   142 caffe.cpp:369] inception_4d/relu_3x3_reduce	forward: 0.802 ms.
+I1124 23:10:56.083897   142 caffe.cpp:372] inception_4d/relu_3x3_reduce	backward: 0.00162 ms.
+I1124 23:10:56.083916   142 caffe.cpp:369] inception_4d/3x3	forward: 54.129 ms.
+I1124 23:10:56.083935   142 caffe.cpp:372] inception_4d/3x3	backward: 47.2915 ms.
+I1124 23:10:56.083953   142 caffe.cpp:369] inception_4d/relu_3x3	forward: 1.61934 ms.
+I1124 23:10:56.083986   142 caffe.cpp:372] inception_4d/relu_3x3	backward: 0.00154 ms.
+I1124 23:10:56.084007   142 caffe.cpp:369] inception_4d/5x5_reduce	forward: 3.0509 ms.
+I1124 23:10:56.084028   142 caffe.cpp:372] inception_4d/5x5_reduce	backward: 2.43196 ms.
+I1124 23:10:56.084049   142 caffe.cpp:369] inception_4d/relu_5x5_reduce	forward: 0.17216 ms.
+I1124 23:10:56.084069   142 caffe.cpp:372] inception_4d/relu_5x5_reduce	backward: 0.00092 ms.
+I1124 23:10:56.084087   142 caffe.cpp:369] inception_4d/5x5	forward: 10.9241 ms.
+I1124 23:10:56.084106   142 caffe.cpp:372] inception_4d/5x5	backward: 10.0473 ms.
+I1124 23:10:56.084125   142 caffe.cpp:369] inception_4d/relu_5x5	forward: 0.34692 ms.
+I1124 23:10:56.084142   142 caffe.cpp:372] inception_4d/relu_5x5	backward: 0.00082 ms.
+I1124 23:10:56.084161   142 caffe.cpp:369] inception_4d/pool	forward: 60.1445 ms.
+I1124 23:10:56.084180   142 caffe.cpp:372] inception_4d/pool	backward: 0.00174 ms.
+I1124 23:10:56.084202   142 caffe.cpp:369] inception_4d/pool_proj	forward: 4.6701 ms.
+I1124 23:10:56.084218   142 caffe.cpp:372] inception_4d/pool_proj	backward: 4.1091 ms.
+I1124 23:10:56.084236   142 caffe.cpp:369] inception_4d/relu_pool_proj	forward: 0.35608 ms.
+I1124 23:10:56.084254   142 caffe.cpp:372] inception_4d/relu_pool_proj	backward: 0.00068 ms.
+I1124 23:10:56.084272   142 caffe.cpp:369] inception_4d/output	forward: 1.33382 ms.
+I1124 23:10:56.084290   142 caffe.cpp:372] inception_4d/output	backward: 0.02788 ms.
+I1124 23:10:56.084308   142 caffe.cpp:369] inception_4d/output_inception_4d/output_0_split	forward: 0.00542 ms.
+I1124 23:10:56.084327   142 caffe.cpp:372] inception_4d/output_inception_4d/output_0_split	backward: 0.0015 ms.
+I1124 23:10:56.084347   142 caffe.cpp:369] inception_4e/1x1	forward: 17.0104 ms.
+I1124 23:10:56.084364   142 caffe.cpp:372] inception_4e/1x1	backward: 15.2194 ms.
+I1124 23:10:56.084383   142 caffe.cpp:369] inception_4e/relu_1x1	forward: 1.42738 ms.
+I1124 23:10:56.084401   142 caffe.cpp:372] inception_4e/relu_1x1	backward: 0.0015 ms.
+I1124 23:10:56.084419   142 caffe.cpp:369] inception_4e/3x3_reduce	forward: 10.8988 ms.
+I1124 23:10:56.084436   142 caffe.cpp:372] inception_4e/3x3_reduce	backward: 9.84252 ms.
+I1124 23:10:56.084456   142 caffe.cpp:369] inception_4e/relu_3x3_reduce	forward: 0.88108 ms.
+I1124 23:10:56.084475   142 caffe.cpp:372] inception_4e/relu_3x3_reduce	backward: 0.00154 ms.
+I1124 23:10:56.084494   142 caffe.cpp:369] inception_4e/3x3	forward: 62.8301 ms.
+I1124 23:10:56.084512   142 caffe.cpp:372] inception_4e/3x3	backward: 57.759 ms.
+I1124 23:10:56.084530   142 caffe.cpp:369] inception_4e/relu_3x3	forward: 1.82336 ms.
+I1124 23:10:56.084547   142 caffe.cpp:372] inception_4e/relu_3x3	backward: 0.0013 ms.
+I1124 23:10:56.084565   142 caffe.cpp:369] inception_4e/5x5_reduce	forward: 2.73076 ms.
+I1124 23:10:56.084583   142 caffe.cpp:372] inception_4e/5x5_reduce	backward: 2.48802 ms.
+I1124 23:10:56.084602   142 caffe.cpp:369] inception_4e/relu_5x5_reduce	forward: 0.166 ms.
+I1124 23:10:56.084624   142 caffe.cpp:372] inception_4e/relu_5x5_reduce	backward: 0.00072 ms.
+I1124 23:10:56.084641   142 caffe.cpp:369] inception_4e/5x5	forward: 16.912 ms.
+I1124 23:10:56.084659   142 caffe.cpp:372] inception_4e/5x5	backward: 15.6296 ms.
+I1124 23:10:56.084677   142 caffe.cpp:369] inception_4e/relu_5x5	forward: 0.6874 ms.
+I1124 23:10:56.084694   142 caffe.cpp:372] inception_4e/relu_5x5	backward: 0.001 ms.
+I1124 23:10:56.084712   142 caffe.cpp:369] inception_4e/pool	forward: 61.8154 ms.
+I1124 23:10:56.084733   142 caffe.cpp:372] inception_4e/pool	backward: 0.00168 ms.
+I1124 23:10:56.084751   142 caffe.cpp:369] inception_4e/pool_proj	forward: 8.8799 ms.
+I1124 23:10:56.084770   142 caffe.cpp:372] inception_4e/pool_proj	backward: 8.05974 ms.
+I1124 23:10:56.084789   142 caffe.cpp:369] inception_4e/relu_pool_proj	forward: 0.70696 ms.
+I1124 23:10:56.084806   142 caffe.cpp:372] inception_4e/relu_pool_proj	backward: 0.00102 ms.
+I1124 23:10:56.084825   142 caffe.cpp:369] inception_4e/output	forward: 2.12786 ms.
+I1124 23:10:56.084841   142 caffe.cpp:372] inception_4e/output	backward: 0.04192 ms.
+I1124 23:10:56.084872   142 caffe.cpp:369] pool4/3x3_s2	forward: 28.1807 ms.
+I1124 23:10:56.084894   142 caffe.cpp:372] pool4/3x3_s2	backward: 0.00076 ms.
+I1124 23:10:56.084914   142 caffe.cpp:369] pool4/3x3_s2_pool4/3x3_s2_0_split	forward: 0.00536 ms.
+I1124 23:10:56.084933   142 caffe.cpp:372] pool4/3x3_s2_pool4/3x3_s2_0_split	backward: 0.00112 ms.
+I1124 23:10:56.084950   142 caffe.cpp:369] inception_5a/1x1	forward: 7.62876 ms.
+I1124 23:10:56.084969   142 caffe.cpp:372] inception_5a/1x1	backward: 6.22616 ms.
+I1124 23:10:56.084986   142 caffe.cpp:369] inception_5a/relu_1x1	forward: 0.35448 ms.
+I1124 23:10:56.085003   142 caffe.cpp:372] inception_5a/relu_1x1	backward: 0.0011 ms.
+I1124 23:10:56.085023   142 caffe.cpp:369] inception_5a/3x3_reduce	forward: 4.76724 ms.
+I1124 23:10:56.085042   142 caffe.cpp:372] inception_5a/3x3_reduce	backward: 4.11956 ms.
+I1124 23:10:56.085067   142 caffe.cpp:369] inception_5a/relu_3x3_reduce	forward: 0.21958 ms.
+I1124 23:10:56.085086   142 caffe.cpp:372] inception_5a/relu_3x3_reduce	backward: 0.00128 ms.
+I1124 23:10:56.085105   142 caffe.cpp:369] inception_5a/3x3	forward: 18.3212 ms.
+I1124 23:10:56.085124   142 caffe.cpp:372] inception_5a/3x3	backward: 15.6888 ms.
+I1124 23:10:56.085144   142 caffe.cpp:369] inception_5a/relu_3x3	forward: 0.44698 ms.
+I1124 23:10:56.085161   142 caffe.cpp:372] inception_5a/relu_3x3	backward: 0.0007 ms.
+I1124 23:10:56.085182   142 caffe.cpp:369] inception_5a/5x5_reduce	forward: 1.21388 ms.
+I1124 23:10:56.085203   142 caffe.cpp:372] inception_5a/5x5_reduce	backward: 1.08126 ms.
+I1124 23:10:56.085223   142 caffe.cpp:369] inception_5a/relu_5x5_reduce	forward: 0.04368 ms.
+I1124 23:10:56.085242   142 caffe.cpp:372] inception_5a/relu_5x5_reduce	backward: 0.0006 ms.
+I1124 23:10:56.085260   142 caffe.cpp:369] inception_5a/5x5	forward: 4.86978 ms.
+I1124 23:10:56.085279   142 caffe.cpp:372] inception_5a/5x5	backward: 4.30014 ms.
+I1124 23:10:56.085297   142 caffe.cpp:369] inception_5a/relu_5x5	forward: 0.1736 ms.
+I1124 23:10:56.085315   142 caffe.cpp:372] inception_5a/relu_5x5	backward: 0.00078 ms.
+I1124 23:10:56.085335   142 caffe.cpp:369] inception_5a/pool	forward: 26.482 ms.
+I1124 23:10:56.085355   142 caffe.cpp:372] inception_5a/pool	backward: 0.00124 ms.
+I1124 23:10:56.085374   142 caffe.cpp:369] inception_5a/pool_proj	forward: 3.8735 ms.
+I1124 23:10:56.085394   142 caffe.cpp:372] inception_5a/pool_proj	backward: 3.2982 ms.
+I1124 23:10:56.085412   142 caffe.cpp:369] inception_5a/relu_pool_proj	forward: 0.17644 ms.
+I1124 23:10:56.085431   142 caffe.cpp:372] inception_5a/relu_pool_proj	backward: 0.00096 ms.
+I1124 23:10:56.085450   142 caffe.cpp:369] inception_5a/output	forward: 0.52178 ms.
+I1124 23:10:56.085469   142 caffe.cpp:372] inception_5a/output	backward: 0.0166 ms.
+I1124 23:10:56.085487   142 caffe.cpp:369] inception_5a/output_inception_5a/output_0_split	forward: 0.0043 ms.
+I1124 23:10:56.085507   142 caffe.cpp:372] inception_5a/output_inception_5a/output_0_split	backward: 0.00184 ms.
+I1124 23:10:56.085526   142 caffe.cpp:369] inception_5b/1x1	forward: 11.169 ms.
+I1124 23:10:56.085546   142 caffe.cpp:372] inception_5b/1x1	backward: 9.30232 ms.
+I1124 23:10:56.085564   142 caffe.cpp:369] inception_5b/relu_1x1	forward: 0.5336 ms.
+I1124 23:10:56.085583   142 caffe.cpp:372] inception_5b/relu_1x1	backward: 0.00114 ms.
+I1124 23:10:56.085602   142 caffe.cpp:369] inception_5b/3x3_reduce	forward: 5.64708 ms.
+I1124 23:10:56.085620   142 caffe.cpp:372] inception_5b/3x3_reduce	backward: 4.90812 ms.
+I1124 23:10:56.085639   142 caffe.cpp:369] inception_5b/relu_3x3_reduce	forward: 0.26424 ms.
+I1124 23:10:56.085659   142 caffe.cpp:372] inception_5b/relu_3x3_reduce	backward: 0.00154 ms.
+I1124 23:10:56.085680   142 caffe.cpp:369] inception_5b/3x3	forward: 25.6817 ms.
+I1124 23:10:56.085698   142 caffe.cpp:372] inception_5b/3x3	backward: 22.042 ms.
+I1124 23:10:56.085717   142 caffe.cpp:369] inception_5b/relu_3x3	forward: 0.54282 ms.
+I1124 23:10:56.085736   142 caffe.cpp:372] inception_5b/relu_3x3	backward: 0.00094 ms.
+I1124 23:10:56.085754   142 caffe.cpp:369] inception_5b/5x5_reduce	forward: 1.74978 ms.
+I1124 23:10:56.085789   142 caffe.cpp:372] inception_5b/5x5_reduce	backward: 1.5353 ms.
+I1124 23:10:56.085813   142 caffe.cpp:369] inception_5b/relu_5x5_reduce	forward: 0.06548 ms.
+I1124 23:10:56.085834   142 caffe.cpp:372] inception_5b/relu_5x5_reduce	backward: 0.00096 ms.
+I1124 23:10:56.085855   142 caffe.cpp:369] inception_5b/5x5	forward: 7.30698 ms.
+I1124 23:10:56.085876   142 caffe.cpp:372] inception_5b/5x5	backward: 6.48896 ms.
+I1124 23:10:56.085896   142 caffe.cpp:369] inception_5b/relu_5x5	forward: 0.17268 ms.
+I1124 23:10:56.085917   142 caffe.cpp:372] inception_5b/relu_5x5	backward: 0.0009 ms.
+I1124 23:10:56.085940   142 caffe.cpp:369] inception_5b/pool	forward: 26.7809 ms.
+I1124 23:10:56.085963   142 caffe.cpp:372] inception_5b/pool	backward: 0.00108 ms.
+I1124 23:10:56.085981   142 caffe.cpp:369] inception_5b/pool_proj	forward: 3.86862 ms.
+I1124 23:10:56.086002   142 caffe.cpp:372] inception_5b/pool_proj	backward: 3.35838 ms.
+I1124 23:10:56.086024   142 caffe.cpp:369] inception_5b/relu_pool_proj	forward: 0.17554 ms.
+I1124 23:10:56.086045   142 caffe.cpp:372] inception_5b/relu_pool_proj	backward: 0.00094 ms.
+I1124 23:10:56.086066   142 caffe.cpp:369] inception_5b/output	forward: 0.65666 ms.
+I1124 23:10:56.086088   142 caffe.cpp:372] inception_5b/output	backward: 0.00992 ms.
+I1124 23:10:56.086112   142 caffe.cpp:369] pool5/7x7_s1	forward: 3.60374 ms.
+I1124 23:10:56.086130   142 caffe.cpp:372] pool5/7x7_s1	backward: 0.00088 ms.
+I1124 23:10:56.086153   142 caffe.cpp:369] pool5/drop_7x7_s1	forward: 0.14186 ms.
+I1124 23:10:56.086175   142 caffe.cpp:372] pool5/drop_7x7_s1	backward: 0.0017 ms.
+I1124 23:10:56.086197   142 caffe.cpp:369] loss3/classifier	forward: 2.08116 ms.
+I1124 23:10:56.086220   142 caffe.cpp:372] loss3/classifier	backward: 0.90058 ms.
+I1124 23:10:56.086241   142 caffe.cpp:369]       prob	forward: 0.76282 ms.
+I1124 23:10:56.086264   142 caffe.cpp:372]       prob	backward: 0.14028 ms.
+I1124 23:10:56.086294   142 caffe.cpp:377] Average Forward pass: 2649.8 ms.
+I1124 23:10:56.086311   142 caffe.cpp:379] Average Backward pass: 1810.37 ms.
+I1124 23:10:56.086328   142 caffe.cpp:381] Average Forward-Backward: 4460.4 ms.
+I1124 23:10:56.086346   142 caffe.cpp:383] Total Time: 223020 ms.
+I1124 23:10:56.086364   142 caffe.cpp:384] *** Benchmark ends ***
