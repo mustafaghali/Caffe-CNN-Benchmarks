@@ -1,3 +1,6 @@
+visualize NN architecture: http://ethereon.github.io/netscope/#/gist/0c45f1da4a2cd900dbd54f16eddd28bf
+
+
 # Deep Residual Networks
 
 By [Kaiming He](http://kaiminghe.com), [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en), [Shaoqing Ren](http://home.ustc.edu.cn/~sqren/), [Jian Sun](http://research.microsoft.com/en-us/people/jiansun/).
