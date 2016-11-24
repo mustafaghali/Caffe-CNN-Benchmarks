@@ -14,6 +14,9 @@ caffe_commit: pull request yet to be merged
 
 gist_id: d802a5849de39225bcc6
 
+visualize NN architecture: http://ethereon.github.io/netscope/#/gist/6ee463d029817a03bf2f1f719f5ba021
+
+
 ## Descriptions
 
 This model is a 4 layer [Network in Network](http://openreview.net/document/9b05a3bb-3a5e-49cb-91f7-0f482af65aea) model trained on imagenet dataset.
