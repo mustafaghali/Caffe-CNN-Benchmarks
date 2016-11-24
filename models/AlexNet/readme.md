@@ -1,4 +1,3 @@
-visualize NN architecture: http://ethereon.github.io/netscope/#/gist/7d1eca502cf0fa4ca218d349f2d20b52
 ---
 name: BVLC AlexNet Model
 caffemodel: bvlc_alexnet.caffemodel
@@ -7,6 +6,9 @@ license: unrestricted
 sha1: 9116a64c0fbe4459d18f4bb6b56d647b63920377
 caffe_commit: 709dc15af4a06bebda027c1eb2b3f3e3375d5077
 ---
+
+visualize NN architecture: http://ethereon.github.io/netscope/#/gist/7d1eca502cf0fa4ca218d349f2d20b52
+
 
 This model is a replication of the model described in the [AlexNet](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) publication.
 
