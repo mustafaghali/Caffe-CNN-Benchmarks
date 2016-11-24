@@ -1,6 +1,4 @@
 visualize NN architecture: http://ethereon.github.io/netscope/#/gist/7d1eca502cf0fa4ca218d349f2d20b52
-
-
 ---
 name: BVLC AlexNet Model
 caffemodel: bvlc_alexnet.caffemodel
