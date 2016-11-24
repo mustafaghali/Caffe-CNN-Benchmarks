@@ -1,0 +1,121 @@
+I1123 06:52:18.486007  1246 caffe.cpp:320] Performing Forward
+I1123 06:52:19.040135  1246 caffe.cpp:325] Initial loss: 0
+I1123 06:52:19.040701  1246 caffe.cpp:326] Performing Backward
+I1123 06:52:19.041182  1246 caffe.cpp:334] *** Benchmark begins ***
+I1123 06:52:19.041404  1246 caffe.cpp:335] Testing for 50 iterations.
+I1123 06:52:20.004398  1246 caffe.cpp:363] Iteration: 1 forward-backward time: 962 ms.
+I1123 06:52:20.973901  1246 caffe.cpp:363] Iteration: 2 forward-backward time: 969 ms.
+I1123 06:52:22.041245  1246 caffe.cpp:363] Iteration: 3 forward-backward time: 1067 ms.
+I1123 06:52:23.107534  1246 caffe.cpp:363] Iteration: 4 forward-backward time: 1065 ms.
+I1123 06:52:24.088297  1246 caffe.cpp:363] Iteration: 5 forward-backward time: 980 ms.
+I1123 06:52:25.065179  1246 caffe.cpp:363] Iteration: 6 forward-backward time: 976 ms.
+I1123 06:52:25.954149  1246 caffe.cpp:363] Iteration: 7 forward-backward time: 888 ms.
+I1123 06:52:27.146687  1246 caffe.cpp:363] Iteration: 8 forward-backward time: 1192 ms.
+I1123 06:52:28.134798  1246 caffe.cpp:363] Iteration: 9 forward-backward time: 987 ms.
+I1123 06:52:29.007073  1246 caffe.cpp:363] Iteration: 10 forward-backward time: 872 ms.
+I1123 06:52:29.966562  1246 caffe.cpp:363] Iteration: 11 forward-backward time: 959 ms.
+I1123 06:52:30.938735  1246 caffe.cpp:363] Iteration: 12 forward-backward time: 972 ms.
+I1123 06:52:31.917280  1246 caffe.cpp:363] Iteration: 13 forward-backward time: 978 ms.
+I1123 06:52:32.910161  1246 caffe.cpp:363] Iteration: 14 forward-backward time: 992 ms.
+I1123 06:52:33.955186  1246 caffe.cpp:363] Iteration: 15 forward-backward time: 1044 ms.
+I1123 06:52:34.855830  1246 caffe.cpp:363] Iteration: 16 forward-backward time: 900 ms.
+I1123 06:52:35.812443  1246 caffe.cpp:363] Iteration: 17 forward-backward time: 956 ms.
+I1123 06:52:36.893147  1246 caffe.cpp:363] Iteration: 18 forward-backward time: 1080 ms.
+I1123 06:52:37.900494  1246 caffe.cpp:363] Iteration: 19 forward-backward time: 1007 ms.
+I1123 06:52:38.849781  1246 caffe.cpp:363] Iteration: 20 forward-backward time: 949 ms.
+I1123 06:52:39.818545  1246 caffe.cpp:363] Iteration: 21 forward-backward time: 968 ms.
+I1123 06:52:40.688194  1246 caffe.cpp:363] Iteration: 22 forward-backward time: 869 ms.
+I1123 06:52:42.132865  1246 caffe.cpp:363] Iteration: 23 forward-backward time: 1444 ms.
+I1123 06:52:43.374151  1246 caffe.cpp:363] Iteration: 24 forward-backward time: 1241 ms.
+I1123 06:52:44.651417  1246 caffe.cpp:363] Iteration: 25 forward-backward time: 1277 ms.
+I1123 06:52:45.988114  1246 caffe.cpp:363] Iteration: 26 forward-backward time: 1335 ms.
+I1123 06:52:47.572588  1246 caffe.cpp:363] Iteration: 27 forward-backward time: 1584 ms.
+I1123 06:52:48.949023  1246 caffe.cpp:363] Iteration: 28 forward-backward time: 1376 ms.
+I1123 06:52:50.033022  1246 caffe.cpp:363] Iteration: 29 forward-backward time: 1083 ms.
+I1123 06:52:51.063001  1246 caffe.cpp:363] Iteration: 30 forward-backward time: 1029 ms.
+I1123 06:52:52.482254  1246 caffe.cpp:363] Iteration: 31 forward-backward time: 1418 ms.
+I1123 06:52:53.500625  1246 caffe.cpp:363] Iteration: 32 forward-backward time: 1018 ms.
+I1123 06:52:54.439545  1246 caffe.cpp:363] Iteration: 33 forward-backward time: 938 ms.
+I1123 06:52:55.387208  1246 caffe.cpp:363] Iteration: 34 forward-backward time: 947 ms.
+I1123 06:52:56.363240  1246 caffe.cpp:363] Iteration: 35 forward-backward time: 975 ms.
+I1123 06:52:57.515961  1246 caffe.cpp:363] Iteration: 36 forward-backward time: 1152 ms.
+I1123 06:52:58.386829  1246 caffe.cpp:363] Iteration: 37 forward-backward time: 870 ms.
+I1123 06:52:59.350400  1246 caffe.cpp:363] Iteration: 38 forward-backward time: 963 ms.
+I1123 06:53:00.302875  1246 caffe.cpp:363] Iteration: 39 forward-backward time: 952 ms.
+I1123 06:53:01.202646  1246 caffe.cpp:363] Iteration: 40 forward-backward time: 899 ms.
+I1123 06:53:02.370862  1246 caffe.cpp:363] Iteration: 41 forward-backward time: 1168 ms.
+I1123 06:53:03.351534  1246 caffe.cpp:363] Iteration: 42 forward-backward time: 980 ms.
+I1123 06:53:04.350787  1246 caffe.cpp:363] Iteration: 43 forward-backward time: 998 ms.
+I1123 06:53:05.301017  1246 caffe.cpp:363] Iteration: 44 forward-backward time: 950 ms.
+I1123 06:53:06.279863  1246 caffe.cpp:363] Iteration: 45 forward-backward time: 978 ms.
+I1123 06:53:07.505970  1246 caffe.cpp:363] Iteration: 46 forward-backward time: 1225 ms.
+I1123 06:53:08.388240  1246 caffe.cpp:363] Iteration: 47 forward-backward time: 882 ms.
+I1123 06:53:09.354497  1246 caffe.cpp:363] Iteration: 48 forward-backward time: 965 ms.
+I1123 06:53:10.309427  1246 caffe.cpp:363] Iteration: 49 forward-backward time: 954 ms.
+I1123 06:53:11.183218  1246 caffe.cpp:363] Iteration: 50 forward-backward time: 873 ms.
+I1123 06:53:11.183482  1246 caffe.cpp:366] Average time per layer: 
+I1123 06:53:11.183567  1246 caffe.cpp:369]      input forward: 0.02272 ms.
+I1123 06:53:11.183702  1246 caffe.cpp:372]      input backward: 0.00496 ms.
+I1123 06:53:11.183861  1246 caffe.cpp:369]      conv1 forward: 74.1506 ms.
+I1123 06:53:11.184180  1246 caffe.cpp:372]      conv1 backward: 61.9961 ms.
+I1123 06:53:11.184399  1246 caffe.cpp:369]      relu0 forward: 4.66228 ms.
+I1123 06:53:11.184643  1246 caffe.cpp:372]      relu0 backward: 0.0065 ms.
+I1123 06:53:11.184895  1246 caffe.cpp:369]      cccp1 forward: 14.7682 ms.
+I1123 06:53:11.185122  1246 caffe.cpp:372]      cccp1 backward: 13.7269 ms.
+I1123 06:53:11.185308  1246 caffe.cpp:369]      relu1 forward: 3.72134 ms.
+I1123 06:53:11.185456  1246 caffe.cpp:372]      relu1 backward: 0.00488 ms.
+I1123 06:53:11.185735  1246 caffe.cpp:369]      cccp2 forward: 14.0464 ms.
+I1123 06:53:11.185983  1246 caffe.cpp:372]      cccp2 backward: 14.0391 ms.
+I1123 06:53:11.186215  1246 caffe.cpp:369]      relu2 forward: 3.7096 ms.
+I1123 06:53:11.186420  1246 caffe.cpp:372]      relu2 backward: 0.00448 ms.
+I1123 06:53:11.186519  1246 caffe.cpp:369]      pool0 forward: 19.2654 ms.
+I1123 06:53:11.186610  1246 caffe.cpp:372]      pool0 backward: 0.00542 ms.
+I1123 06:53:11.186792  1246 caffe.cpp:369]      conv2 forward: 170.022 ms.
+I1123 06:53:11.186972  1246 caffe.cpp:372]      conv2 backward: 186.965 ms.
+I1123 06:53:11.187047  1246 caffe.cpp:369]      relu3 forward: 2.50006 ms.
+I1123 06:53:11.187150  1246 caffe.cpp:372]      relu3 backward: 0.00454 ms.
+I1123 06:53:11.187433  1246 caffe.cpp:369]      cccp3 forward: 18.5835 ms.
+I1123 06:53:11.187670  1246 caffe.cpp:372]      cccp3 backward: 17.6086 ms.
+I1123 06:53:11.187953  1246 caffe.cpp:369]      relu5 forward: 2.56498 ms.
+I1123 06:53:11.188117  1246 caffe.cpp:372]      relu5 backward: 0.00498 ms.
+I1123 06:53:11.188204  1246 caffe.cpp:369]      cccp4 forward: 19.0055 ms.
+I1123 06:53:11.188287  1246 caffe.cpp:372]      cccp4 backward: 18.0873 ms.
+I1123 06:53:11.188362  1246 caffe.cpp:369]      relu6 forward: 2.61684 ms.
+I1123 06:53:11.188544  1246 caffe.cpp:372]      relu6 backward: 0.00418 ms.
+I1123 06:53:11.188845  1246 caffe.cpp:369]      pool2 forward: 10.7835 ms.
+I1123 06:53:11.189076  1246 caffe.cpp:372]      pool2 backward: 0.00496 ms.
+I1123 06:53:11.189167  1246 caffe.cpp:369]      conv3 forward: 62.9204 ms.
+I1123 06:53:11.189441  1246 caffe.cpp:372]      conv3 backward: 54.4098 ms.
+I1123 06:53:11.189710  1246 caffe.cpp:369]      relu7 forward: 0.93732 ms.
+I1123 06:53:11.189846  1246 caffe.cpp:372]      relu7 backward: 0.00542 ms.
+I1123 06:53:11.190024  1246 caffe.cpp:369]      cccp5 forward: 10.6663 ms.
+I1123 06:53:11.190119  1246 caffe.cpp:372]      cccp5 backward: 8.8828 ms.
+I1123 06:53:11.190206  1246 caffe.cpp:369]      relu8 forward: 0.91028 ms.
+I1123 06:53:11.190289  1246 caffe.cpp:372]      relu8 backward: 0.00464 ms.
+I1123 06:53:11.190503  1246 caffe.cpp:369]      cccp6 forward: 10.3233 ms.
+I1123 06:53:11.190605  1246 caffe.cpp:372]      cccp6 backward: 8.9132 ms.
+I1123 06:53:11.190686  1246 caffe.cpp:369]      relu9 forward: 0.89276 ms.
+I1123 06:53:11.190932  1246 caffe.cpp:372]      relu9 backward: 0.00394 ms.
+I1123 06:53:11.191159  1246 caffe.cpp:369]      pool3 forward: 4.51472 ms.
+I1123 06:53:11.191357  1246 caffe.cpp:372]      pool3 backward: 0.0042 ms.
+I1123 06:53:11.191663  1246 caffe.cpp:369]       drop forward: 1.28494 ms.
+I1123 06:53:11.191745  1246 caffe.cpp:372]       drop backward: 0.00492 ms.
+I1123 06:53:11.192029  1246 caffe.cpp:369] conv4-1024 forward: 76.3148 ms.
+I1123 06:53:11.192158  1246 caffe.cpp:372] conv4-1024 backward: 49.9006 ms.
+I1123 06:53:11.192353  1246 caffe.cpp:369]     relu10 forward: 0.51002 ms.
+I1123 06:53:11.192580  1246 caffe.cpp:372]     relu10 backward: 0.00534 ms.
+I1123 06:53:11.192688  1246 caffe.cpp:369] cccp7-1024 forward: 23.2894 ms.
+I1123 06:53:11.192785  1246 caffe.cpp:372] cccp7-1024 backward: 14.3164 ms.
+I1123 06:53:11.193008  1246 caffe.cpp:369]     relu11 forward: 0.51724 ms.
+I1123 06:53:11.193156  1246 caffe.cpp:372]     relu11 backward: 0.00542 ms.
+I1123 06:53:11.193259  1246 caffe.cpp:369] cccp8-1024 forward: 22.6726 ms.
+I1123 06:53:11.193377  1246 caffe.cpp:372] cccp8-1024 backward: 14.3128 ms.
+I1123 06:53:11.193641  1246 caffe.cpp:369]     relu12 forward: 0.54604 ms.
+I1123 06:53:11.193845  1246 caffe.cpp:372]     relu12 backward: 0.00394 ms.
+I1123 06:53:11.194056  1246 caffe.cpp:369]      pool4 forward: 2.12124 ms.
+I1123 06:53:11.194299  1246 caffe.cpp:372]      pool4 backward: 0.00454 ms.
+I1123 06:53:11.194587  1246 caffe.cpp:377] Average Forward pass: 579.137 ms.
+I1123 06:53:11.194737  1246 caffe.cpp:379] Average Backward pass: 463.445 ms.
+I1123 06:53:11.194824  1246 caffe.cpp:381] Average Forward-Backward: 1043.04 ms.
+I1123 06:53:11.194897  1246 caffe.cpp:383] Total Time: 52152 ms.
+I1123 06:53:11.194933  1246 caffe.cpp:384] *** Benchmark ends ***
