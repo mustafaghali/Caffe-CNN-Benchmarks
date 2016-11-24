@@ -1,3 +1,6 @@
+visualize NN architecture: http://ethereon.github.io/netscope/#/gist/c1cb17977cb36962de8edd32d6b5b904
+
+
 ##Information
 
 name: 19-layer model from the arXiv paper: "Very Deep Convolutional Networks for Large-Scale Image Recognition"
