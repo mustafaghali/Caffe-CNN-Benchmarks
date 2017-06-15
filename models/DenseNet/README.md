@@ -7,6 +7,15 @@ For details of these networks, please read the original paper:
 - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 
+visualize NN architecture DenseNet 121: http://ethereon.github.io/netscope/#/gist/148ba697d83887bca6d7424fecaa1e07
+
+visualize NN architecture DenseNet 161: http://ethereon.github.io/netscope/#/gist/fe3bfbc3602f1aa048fe0fca3b8b38fc
+
+visualize NN architecture DenseNet 169: http://ethereon.github.io/netscope/#/gist/cc7a64f4f93c08fceadb3d70f2ed6652
+
+visualize NN architecture DenseNet 201: http://ethereon.github.io/netscope/#/gist/f7d78ccd2cf5ce16264e2fe387286d69
+
+
 ### Pretrained DenseNet Models on ImageNet
 
 The top-1/5 accuracy rates by using single center crop (crop size: 224x224, image size: 256xN)
